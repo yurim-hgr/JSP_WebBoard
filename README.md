@@ -1,4 +1,4 @@
-# 2020.02.07_JSP_WebBoard
+# JSP_WebBoard
 
 ### jsp를 이용한 게시판웹사이트
 
